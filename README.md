@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anmol45890/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Anmol45890/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Anmol45890/DSA/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anmol45890/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Anmol45890/DSA/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol45890/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol45890/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anmol45890/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
