@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Anmol45890/DSA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Anmol45890/DSA/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anmol45890/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anmol45890/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
