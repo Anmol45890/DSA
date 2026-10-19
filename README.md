@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Anmol45890/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol45890/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol45890/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Memoization
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Anmol45890/DSA/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Anmol45890/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
