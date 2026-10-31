@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Anmol45890/DSA/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Anmol45890/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anmol45890/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anmol45890/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol45890/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anmol45890/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Anmol45890/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Anmol45890/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anmol45890/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
