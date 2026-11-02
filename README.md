@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Anmol45890/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anmol45890/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Anmol45890/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Anmol45890/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Anmol45890/DSA/tree/master/0509-fibonacci-number) |
 ## Newton's Method
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Anmol45890/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Anmol45890/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Anmol45890/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Anmol45890/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anmol45890/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anmol45890/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Anmol45890/DSA/tree/master/0015-3sum) |
+| [0202-happy-number](https://github.com/Anmol45890/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Anmol45890/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anmol45890/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anmol45890/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anmol45890/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Anmol45890/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
