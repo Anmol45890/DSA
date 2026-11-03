@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Anmol45890/DSA/tree/master/0006-zigzag-conversion) |
 | [0344-reverse-string](https://github.com/Anmol45890/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anmol45890/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Depth-First Search
